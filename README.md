@@ -1,5 +1,6 @@
 ## Developer_List
 A crud project build with Laravel where Developer records can be added,edit,delete,trashed and restored.
+
 ![crud](https://github.com/user-attachments/assets/3bdafff1-ba00-4e4c-92a4-9ba0a798adf4)
 
 
